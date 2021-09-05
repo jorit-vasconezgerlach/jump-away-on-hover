@@ -23,6 +23,5 @@ body {
     height: 50%;
     width: 100%;
     background: cadetblue;
-    border-radius: 200px;
     transition: 0.2s ease-in-out;
 }
