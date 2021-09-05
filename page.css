@@ -16,12 +16,12 @@ body {
 .top {
     height: 50%;
     width: 100%;
-    background: burlywood;
+    background: #CA3216;
     transition: 0.2s ease-in-out;
 }
 .bot {
     height: 50%;
     width: 100%;
-    background: cadetblue;
+    background: #222222;
     transition: 0.2s ease-in-out;
 }
