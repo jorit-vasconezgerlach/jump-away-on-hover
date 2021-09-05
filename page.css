@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    height: 0px;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    height: 50%;
+    width: 100%;
+    background: burlywood;
+    transition: 0.2s ease-in-out;
+}
+.bot {
+    height: 50%;
+    width: 100%;
+    background: cadetblue;
+    border-radius: 200px;
+    transition: 0.2s ease-in-out;
+}
